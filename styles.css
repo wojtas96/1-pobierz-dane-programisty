@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(128, 219, 125);
+}
+
+button {
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: rgb(140, 232, 83);
+}
+
+div {
+    font-size: 15px;
+}
